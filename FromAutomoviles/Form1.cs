@@ -17,6 +17,14 @@ namespace FromAutomoviles
             InitializeComponent();
         }
 
-        
+        private void btnIngresar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnMostrar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
