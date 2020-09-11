@@ -26,5 +26,13 @@ namespace FromAutomoviles
         {
 
         }
+
+        private void cbModelo_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if(cbModelo.SelectedItem.Equals("Raptor"))
+            {
+                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Raptor.png";
+            }
+        }
     }
 }

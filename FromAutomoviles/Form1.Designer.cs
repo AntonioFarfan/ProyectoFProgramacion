@@ -115,6 +115,7 @@
             this.cbModelo.Name = "cbModelo";
             this.cbModelo.Size = new System.Drawing.Size(121, 21);
             this.cbModelo.TabIndex = 8;
+            this.cbModelo.SelectedIndexChanged += new System.EventHandler(this.cbModelo_SelectedIndexChanged);
             // 
             // txtPlaca
             // 
@@ -151,9 +152,9 @@
             // 
             // pbAutos
             // 
-            this.pbAutos.Location = new System.Drawing.Point(431, 55);
+            this.pbAutos.Location = new System.Drawing.Point(310, 54);
             this.pbAutos.Name = "pbAutos";
-            this.pbAutos.Size = new System.Drawing.Size(265, 178);
+            this.pbAutos.Size = new System.Drawing.Size(174, 119);
             this.pbAutos.TabIndex = 13;
             this.pbAutos.TabStop = false;
             this.pbAutos.Visible = false;
