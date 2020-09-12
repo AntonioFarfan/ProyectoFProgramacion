@@ -17,9 +17,30 @@ namespace FromAutomoviles
             InitializeComponent();
         }
 
+        public List<Automoviles> datosAutomoviles;
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-
+            try
+            {
+                if (VerificarInformacion())
+                {
+                    Automoviles automovil = new Automoviles();
+                    automovil.Placa = txtPlaca.Text;
+                    automovil.Kilometraje = Convert.ToInt32(mtxtKilometraje.Text);
+                    automovil.Dueño = txtDueño.Text;
+                    datosAutomoviles.Add(automovil);
+                    MessageBox.Show("Datos guardados correctamente.");
+                    LimpiarControles();
+                }
+                else
+                {
+                    MessageBox.Show("Ingrese toda la información");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void btnMostrar_Click(object sender, EventArgs e)
@@ -59,5 +80,22 @@ namespace FromAutomoviles
                 pbAutos.ImageLocation = "https://github.com/AntonioFarfan/ProyectoFProgramacion/blob/master/Imagenes/B-Max.png?raw=true";
             }
         }
+
+        public bool VerificarInformacion()
+        {
+            bool verifica = false;
+            if (txtPlaca.Text != "" && mtxtKilometraje.Text != ""&&txtDueño.Text!="")
+            {
+                verifica = true;
+            }
+            return verifica;
+        }
+        public void LimpiarControles()
+        {
+            txtPlaca.Text = "";
+            mtxtKilometraje.Text = "";
+            txtDueño.Text = "";
+        }
+
     }
 }

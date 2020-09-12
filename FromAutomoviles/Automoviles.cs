@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace FromAutomoviles
 {
-    class Automoviles
+    public class Automoviles
     {
-		public string Modelo { set; get; }
 		public string Placa { set; get; }
 		public int Kilometraje { set; get; }
 		public string Dueño { set; get; }
@@ -17,9 +16,8 @@ namespace FromAutomoviles
 		{
 		}
 
-		public Automoviles(string modelo, string placa, int kilometraje, string dueño)
+		public Automoviles(string placa, int kilometraje, string dueño)
 		{
-			Modelo = modelo;
 			Placa = placa;
 			Kilometraje = kilometraje;
 			Dueño = dueño;
