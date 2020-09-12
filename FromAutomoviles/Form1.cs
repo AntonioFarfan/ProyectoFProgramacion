@@ -32,31 +32,31 @@ namespace FromAutomoviles
             pbAutos.Visible = true;
             if (cbModelo.SelectedItem.Equals("Raptor"))
             {
-                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Raptor.png";
+                pbAutos.ImageLocation = "https://github.com/AntonioFarfan/ProyectoFProgramacion/blob/master/Imagenes/Raptor.png?raw=true";
             }
             if (cbModelo.SelectedItem.Equals("Ranger"))
             {
-                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Ranger.png";
+                pbAutos.ImageLocation = "https://github.com/AntonioFarfan/ProyectoFProgramacion/blob/master/Imagenes/Ranger.png?raw=true";
             }
             if (cbModelo.SelectedItem.Equals("Explorer"))
             {
-                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Explorer.png";
+                pbAutos.ImageLocation = "https://github.com/AntonioFarfan/ProyectoFProgramacion/blob/master/Imagenes/Explorer.png?raw=true";
             }
             if (cbModelo.SelectedItem.Equals("Edge"))
             {
-                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Edge.png";
+                pbAutos.ImageLocation = "https://github.com/AntonioFarfan/ProyectoFProgramacion/blob/master/Imagenes/Edge.png?raw=true";
             }
             if (cbModelo.SelectedItem.Equals("Focus"))
             {
-                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Focus.png";
+                pbAutos.ImageLocation = "https://github.com/AntonioFarfan/ProyectoFProgramacion/blob/master/Imagenes/Focus.png?raw=true";
             }
             if (cbModelo.SelectedItem.Equals("Fiesta"))
             {
-                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Fiesta.png";
+                pbAutos.ImageLocation = "https://github.com/AntonioFarfan/ProyectoFProgramacion/blob/master/Imagenes/Fiesta.png?raw=true";
             }
             if (cbModelo.SelectedItem.Equals("B-Max"))
             {
-                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/B-Max.png";
+                pbAutos.ImageLocation = "https://github.com/AntonioFarfan/ProyectoFProgramacion/blob/master/Imagenes/B-Max.png?raw=true";
             }
         }
     }
