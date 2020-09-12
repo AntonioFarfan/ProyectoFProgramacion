@@ -20,3 +20,14 @@ C:\Users\cas-p\Source\Repos\ProyectoFProgramacion\FromAutomoviles\obj\Debug\From
 C:\Users\cas-p\Source\Repos\ProyectoFProgramacion\FromAutomoviles\obj\Debug\FromAutomoviles.csproj.CoreCompileInputs.cache
 C:\Users\cas-p\Source\Repos\ProyectoFProgramacion\FromAutomoviles\obj\Debug\FromAutomoviles.exe
 C:\Users\cas-p\Source\Repos\ProyectoFProgramacion\FromAutomoviles\obj\Debug\FromAutomoviles.pdb
+C:\Users\Usuario\Source\Repos\ProyectoFProgramacion\FromAutomoviles\bin\Debug\FromAutomoviles.exe.config
+C:\Users\Usuario\Source\Repos\ProyectoFProgramacion\FromAutomoviles\bin\Debug\FromAutomoviles.exe
+C:\Users\Usuario\Source\Repos\ProyectoFProgramacion\FromAutomoviles\bin\Debug\FromAutomoviles.pdb
+C:\Users\Usuario\Source\Repos\ProyectoFProgramacion\FromAutomoviles\obj\Debug\FromAutomoviles.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\ProyectoFProgramacion\FromAutomoviles\obj\Debug\FromAutomoviles.Form1.resources
+C:\Users\Usuario\Source\Repos\ProyectoFProgramacion\FromAutomoviles\obj\Debug\FromAutomoviles.Form2.resources
+C:\Users\Usuario\Source\Repos\ProyectoFProgramacion\FromAutomoviles\obj\Debug\FromAutomoviles.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\ProyectoFProgramacion\FromAutomoviles\obj\Debug\FromAutomoviles.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\ProyectoFProgramacion\FromAutomoviles\obj\Debug\FromAutomoviles.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\ProyectoFProgramacion\FromAutomoviles\obj\Debug\FromAutomoviles.exe
+C:\Users\Usuario\Source\Repos\ProyectoFProgramacion\FromAutomoviles\obj\Debug\FromAutomoviles.pdb
