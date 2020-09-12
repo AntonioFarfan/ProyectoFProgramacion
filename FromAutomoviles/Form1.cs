@@ -29,9 +29,34 @@ namespace FromAutomoviles
 
         private void cbModelo_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if(cbModelo.SelectedItem.Equals("Raptor"))
+            pbAutos.Visible = true;
+            if (cbModelo.SelectedItem.Equals("Raptor"))
             {
                 pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Raptor.png";
+            }
+            if (cbModelo.SelectedItem.Equals("Ranger"))
+            {
+                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Ranger.png";
+            }
+            if (cbModelo.SelectedItem.Equals("Explorer"))
+            {
+                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Explorer.png";
+            }
+            if (cbModelo.SelectedItem.Equals("Edge"))
+            {
+                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Edge.png";
+            }
+            if (cbModelo.SelectedItem.Equals("Focus"))
+            {
+                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Focus.png";
+            }
+            if (cbModelo.SelectedItem.Equals("Fiesta"))
+            {
+                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/Fiesta.png";
+            }
+            if (cbModelo.SelectedItem.Equals("B-Max"))
+            {
+                pbAutos.ImageLocation = "C:/Users/Fernando/Desktop/PROYECTO/Imagenes/B-Max.png";
             }
         }
     }

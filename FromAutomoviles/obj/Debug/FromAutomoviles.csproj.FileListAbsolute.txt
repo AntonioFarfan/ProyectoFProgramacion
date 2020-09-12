@@ -1,0 +1,11 @@
+C:\Users\Fernando\Desktop\PROYECTO\FromAutomoviles\bin\Debug\FromAutomoviles.exe.config
+C:\Users\Fernando\Desktop\PROYECTO\FromAutomoviles\bin\Debug\FromAutomoviles.exe
+C:\Users\Fernando\Desktop\PROYECTO\FromAutomoviles\bin\Debug\FromAutomoviles.pdb
+C:\Users\Fernando\Desktop\PROYECTO\FromAutomoviles\obj\Debug\FromAutomoviles.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\PROYECTO\FromAutomoviles\obj\Debug\FromAutomoviles.Form1.resources
+C:\Users\Fernando\Desktop\PROYECTO\FromAutomoviles\obj\Debug\FromAutomoviles.Form2.resources
+C:\Users\Fernando\Desktop\PROYECTO\FromAutomoviles\obj\Debug\FromAutomoviles.Properties.Resources.resources
+C:\Users\Fernando\Desktop\PROYECTO\FromAutomoviles\obj\Debug\FromAutomoviles.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\PROYECTO\FromAutomoviles\obj\Debug\FromAutomoviles.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\PROYECTO\FromAutomoviles\obj\Debug\FromAutomoviles.exe
+C:\Users\Fernando\Desktop\PROYECTO\FromAutomoviles\obj\Debug\FromAutomoviles.pdb
