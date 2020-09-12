@@ -154,7 +154,8 @@
             // 
             this.pbAutos.Location = new System.Drawing.Point(310, 54);
             this.pbAutos.Name = "pbAutos";
-            this.pbAutos.Size = new System.Drawing.Size(174, 119);
+            this.pbAutos.Size = new System.Drawing.Size(266, 134);
+            this.pbAutos.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbAutos.TabIndex = 13;
             this.pbAutos.TabStop = false;
             this.pbAutos.Visible = false;
@@ -163,7 +164,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 329);
+            this.ClientSize = new System.Drawing.Size(591, 310);
             this.Controls.Add(this.pbAutos);
             this.Controls.Add(this.btnMostrar);
             this.Controls.Add(this.txtDueño);
